@@ -1,0 +1,13 @@
+{
+    "name": "staruml.node-connection-test",
+    "title": "Node Connection Test",
+    "description": "Import model files (.uml) of StarUML old version.",
+    "homepage": "https://github.com/",
+    "version": "0.9.0",
+    "author": "Minkyu Lee",
+    "email": "niklaus.lee@gmail.com",
+    "license": "MIT",
+    "engines": {
+        "staruml": ">=2.0.0"
+    }
+}

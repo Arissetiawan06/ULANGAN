@@ -1,0 +1,27 @@
+{
+    "config": {
+        "app_title": "StarUML 2",
+        "app_icon": "styles/icons/logo_64.png",
+        "update_info_url": "http://staruml.io/versions/latest",
+        "download_url": "http://staruml.io/download",
+        "purchase_url": "http://staruml.io/buy",
+        "documentation_url": "http://docs.staruml.io",
+        "forum_url": "https://groups.google.com/forum/#!forum/staruml",
+        "release_notes_url": "http://staruml.io/download",
+        "feature_request_url": "http://staruml.uservoice.com",
+        "product_id": "STARUML.V2",
+        "defaultTemplate": "Default.mdj",
+        "defaultFonts": [
+            { "value": "Helvetica", "text": "Helvetica" },
+            { "value": "Times", "text": "Times" },
+            { "value": "Courier", "text": "Courier" }
+        ],
+        "extension_registry": "http://staruml.io/extensions/registry.json",
+        "extension_url": "http://staruml.io/extensions/{0}/{0}-{1}.zip"
+    },
+    "name": "StarUML",
+    "version": "2.6.0",
+    "apiVersion": "2.6.0",
+    "copyright": "Copyright(c) 2014-2015 MKLab. All rights reserved.",
+    "homepage": "http://staruml.io"
+}

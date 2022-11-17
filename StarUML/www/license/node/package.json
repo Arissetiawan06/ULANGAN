@@ -1,0 +1,8 @@
+{
+    "name": "staruml-license",
+    "description": "Used in the license manager",
+    "version": "2.0.0",
+    "dependencies": {
+        "node-rsa": "0.2.13"
+    }
+}

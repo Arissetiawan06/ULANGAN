@@ -1,0 +1,8 @@
+{
+    "name": "metadata-json",
+    "description": "Metadata-JSON",
+    "version": "2.0.0",
+    "dependencies": {
+        "metadata-json": "0.9.7"
+    }
+}

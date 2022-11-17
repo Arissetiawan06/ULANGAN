@@ -1,0 +1,40 @@
+html,
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    background-color: rgb(116, 116, 116);
+    color: white;
+}
+
+.navigation {
+    background-color: blue;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navigation > li {
+    list-style-type: none;
+    padding: 15px;
+}
+
+.navigation>li>a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+.container-content {
+    text-align: center;
+}
+
+
